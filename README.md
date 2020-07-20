@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working as a Team Lead/Lead Instructor at [Juno College of Technology](https://junocollege.com/) <br>
-🌱 I’m currently learning more about next.js, nextjs, apollo-client, apollo-server, and graphql <br>
+🌱 I’m currently learning more about **nextjs**, **apollo-client**, **apollo-server**, and **graphql** <br>
 😄 Pronouns: He/Him <br>
 
 ### How to reach me
