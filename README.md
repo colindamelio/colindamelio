@@ -12,7 +12,7 @@
 
 
 ## Latest project
-- [Night Movies](https://night-moves.netlify.app/): a Wordle clone.
+[Night Moves](https://night-moves.netlify.app/): a Wordle clone.
 
 ### How to reach me
 - Email: `colin.damelio@gmail.com`
