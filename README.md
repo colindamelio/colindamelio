@@ -15,5 +15,6 @@
 - [Night Movies](https://night-moves.netlify.app/) a Wordle clone.
 
 ### How to reach me
+- Email: `colin.damelio@gmail.com`
 - Twitter: https://twitter.com/clndml
 - Personal site: https://www.colindamelio.com
