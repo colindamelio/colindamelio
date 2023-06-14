@@ -7,7 +7,8 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="25" height="25" alt="React" /></a>
 
 ## Previous roles
-[2019 - 2023] Manager of Web Development at [Juno College of Technology](https://junocollege.com/). <br>
+[2021 - 2023] Manager of Web Development at [Juno College of Technology](https://junocollege.com/). <br>
+[2019 - 2021] Team Lead / Instructor 
 [2015 - 2018] Web Developer
 
 
