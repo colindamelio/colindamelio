@@ -13,7 +13,7 @@
 
 
 ## Latest project
-[Night Moves](https://night-moves.netlify.app/): a Wordle clone.
+[Night Moves](https://night-moves.netlify.app/): a Wordle clone built with React.
 
 ### How to reach me
 - Email: `colin.damelio@gmail.com`
